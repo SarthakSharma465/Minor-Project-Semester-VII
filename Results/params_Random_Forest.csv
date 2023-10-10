@@ -1,0 +1,2 @@
+Train-Test Split,Param Grid,Cross-Validation,Scoring,Grid Search
+70-30,"{'n_estimators': [100,150,200,250,300,350,400,500,700], 'max_features': ['auto', 'sqrt', 'log2'], 'max_depth' : [3,4,5,6,7,8,9,10], 'criterion' :['entropy', 'gini']}",LeaveOneOut,accuracy,GridSearchCV

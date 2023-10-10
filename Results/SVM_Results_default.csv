@@ -1,0 +1,7 @@
+Metric,Value
+Best Training Accuracy,0.710784
+Testing Accuracy,0.7
+Testing Sensitivity (Abnormality),0.75
+Testing Specificity (Normality),0.65625
+Confusion Matrix,"[[21, 11], [7, 21]]"
+MCC Score,0.40625
